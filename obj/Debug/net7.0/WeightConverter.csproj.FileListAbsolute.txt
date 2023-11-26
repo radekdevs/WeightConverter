@@ -1,0 +1,14 @@
+C:\WeightConverter\bin\Debug\net7.0\WeightConverter.exe
+C:\WeightConverter\bin\Debug\net7.0\WeightConverter.deps.json
+C:\WeightConverter\bin\Debug\net7.0\WeightConverter.runtimeconfig.json
+C:\WeightConverter\bin\Debug\net7.0\WeightConverter.dll
+C:\WeightConverter\bin\Debug\net7.0\WeightConverter.pdb
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.AssemblyInfoInputs.cache
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.AssemblyInfo.cs
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.csproj.CoreCompileInputs.cache
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.dll
+C:\WeightConverter\obj\Debug\net7.0\refint\WeightConverter.dll
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.pdb
+C:\WeightConverter\obj\Debug\net7.0\WeightConverter.genruntimeconfig.cache
+C:\WeightConverter\obj\Debug\net7.0\ref\WeightConverter.dll
